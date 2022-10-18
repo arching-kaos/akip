@@ -1,2 +1,3 @@
-# akip
-Arching Kaos Improvement Proposals
+# Arching Kaos Improvement Proposals
+
+No proposals at the moment
